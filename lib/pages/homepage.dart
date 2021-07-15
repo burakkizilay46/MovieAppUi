@@ -462,3 +462,4 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+// Method ve modeller oluşturup aynı şeyleri tekrar tekrar kullanmamaya çalışmalısın!!! Yazılımın kurallarından bir tanesi : Don't repeat yourself !! Kendini Tekrar Etme!!
